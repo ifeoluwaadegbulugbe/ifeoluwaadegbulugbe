@@ -42,7 +42,3 @@ I graduated with First Class Honours in Computer Science from Crawford Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-adegbulugbe/)
 [![Framer Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=framer&logoColor=white)](https://theeeifeoluwa.framer.website/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@theeeifeoluwa)
-
-## 📊 GitHub Stats
-![Ife's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
