@@ -5,13 +5,13 @@ I'm a product designer and full stack developer building at the intersection of 
 
 I graduated with First Class Honours in Computer Science from Crawford University (top 1% of my class), and I've worked across product design, frontend development, and fintech, most recently as a Product Designer at Vetor Labs, a Web3 pre-seed startup.
 
-- 🔭 Currently building **Orbit** (design → development → growth, solo)
-- 🎨 Product design background with a developer's eye for implementation
-- 💻 Freelance Framer web developer for small businesses
-- 🌱 Always exploring the overlap of design, code, and entrepreneurship
-- 📫 Reach me at: [your email here]
+- Currently building **Orbit** (design → development → growth, solo)
+- Product design background with a developer's eye for implementation
+- Freelance Framer web developer for small businesses
+- Always exploring the overlap of design, code, and entrepreneurship
+- Reach me at: ifeoluwaadegbulugbe@gmail.com
 
-## 🚀 Currently Building
+## Currently Building
 **[Orbit](https://orbit-vert-three.vercel.app/)** — a SaaS business management tool for service professionals (nail technicians, photographers, consultants, stylists, and more). Booking, invoicing, payments, and client management in one place, designed and built solo from the ground up.
 
 ## 🛠️ Tech Stack
